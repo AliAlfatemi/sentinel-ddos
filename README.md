@@ -16,7 +16,7 @@ Sentinel is an autonomous defense agent that combines **Deep Reinforcement Learn
 
 1.  Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/sentinel-ddos.git
+    git clone https://github.com/AliAlfatemi/sentinel-ddos.git
     cd sentinel-ddos
     ```
 
@@ -69,7 +69,7 @@ If you use this code, please cite our paper:
 ```bibtex
 @article{alfatemi2025sentinel,
   title={Sentinel: A Neuro-Symbolic Co-Evolutionary Framework for Autonomous DDoS Defense},
-  author={Alfatemi, Ali},
+  author={Ali Alfatemi, Mohamed Rahouti, Zakirul Alam Bhuiyan},
   journal={IEEE Transactions on Network and Service Management},
   year={2025}
 }
