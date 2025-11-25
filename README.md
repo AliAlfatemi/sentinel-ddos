@@ -69,7 +69,7 @@ If you use this code, please cite our paper:
 ```bibtex
 @article{alfatemi2025sentinel,
   title={Sentinel: A Neuro-Symbolic Co-Evolutionary Framework for Autonomous DDoS Defense},
-  author={Ali Alfatemi, Mohamed Rahouti, Zakirul Alam Bhuiyan},
+  author={Ali Alfatemi, Mohamed Rahouti, Zakirul Alam Bhuiyan, Ahmed Alfaqeer},
   journal={IEEE Transactions on Network and Service Management},
   year={2025}
 }
